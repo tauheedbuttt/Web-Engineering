@@ -1,0 +1,17 @@
+
+h1.MainHeading {text-align: center;}
+section.Objective {text-align: center;}
+table.Skills{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+table.Footer{
+    margin-left: auto;
+    margin-right: auto;
+}
+p.Enrollment { text-align: right;}
+p.Section {text-align: left}
+header{
+    background-color: bisque;
+}
